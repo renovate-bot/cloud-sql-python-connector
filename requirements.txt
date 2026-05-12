@@ -4,6 +4,6 @@ filelock==3.28.0
 google-auth==2.49.2
 idna==3.11
 packaging==26.1
-pip==26.0.1
+pip==26.1
 PyMySQL==1.1.2
 virtualenv==21.2.4
